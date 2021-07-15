@@ -1,6 +1,6 @@
 # My Profile
 
-![Profile](./img/mainpage.jpg)
+![Profile](./img/mainpage.JPG)
 
 ## Description
 
@@ -21,11 +21,11 @@
 
 > About Me: The about page displays my most recent work history along with my technical skills. 
 
-![About](./img/about.jpg)
+![About](./img/about.JPG)
 
 > My Work: On the My Work page, you can find samples of my solo and group projects. Here you can also find information on upcoming projects i have with prospective clients. 
 
-![MyWork](./img/mywork.jpg)
+![MyWork](./img/mywork.JPG)
 
 > Contact Me: The contact me section of the site has my personal contact information along with a link to my resume. There is a form to request a quote for your project that you would like to contract out for building. This form will be activited once the portfolio website has been deployed to [Bluehost](https://www.bluehost.com/).
 
@@ -36,7 +36,7 @@
 
 ## 🔗 Application Links
 * [Github](https://github.com/malmason/profile)
-* [Live Deployment](https://tranquil-coast-29213.herokuapp.com/)
+* [Live Deployment](https://malmason.github.io/profile/)
 
 ## 📱 Contact 
 
